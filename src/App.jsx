@@ -289,7 +289,7 @@ function App() {
             <div className="max-w-3xl space-y-4">
               <Badge>List Wahana</Badge>
               <h2 className="font-display text-4xl font-bold leading-tight text-white md:text-5xl">
-                Wahana yang bisa kamu tampilkan
+                Wahana yang harus kamu coba
               </h2>
             </div>
           </div>
