@@ -1,0 +1,21 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" rx="48" fill="#061018"/>
+  <rect width="800" height="1000" rx="48" fill="url(#paint0_linear)"/>
+  <circle cx="180" cy="214" r="164" fill="#5DC9FF" fill-opacity="0.22"/>
+  <circle cx="636" cy="826" r="186" fill="#FFD46B" fill-opacity="0.14"/>
+  <circle cx="614" cy="240" r="132" fill="white" fill-opacity="0.07"/>
+  <rect x="66" y="76" width="172" height="48" rx="24" fill="white" fill-opacity="0.08"/>
+  <text x="96" y="108" fill="white" fill-opacity="0.78" font-family="Montserrat, Arial, sans-serif" font-size="20" letter-spacing="6">SPOT 01</text>
+  <text x="66" y="718" fill="white" font-family="Syne, Arial, sans-serif" font-size="76" font-weight="700">Hero</text>
+  <text x="66" y="790" fill="white" font-family="Syne, Arial, sans-serif" font-size="76" font-weight="700">Preview</text>
+  <text x="66" y="858" fill="white" fill-opacity="0.7" font-family="Montserrat, Arial, sans-serif" font-size="28">
+    Placeholder visual untuk client preview.
+  </text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="71" y1="71" x2="726" y2="915" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#133A47"/>
+      <stop offset="0.55" stop-color="#09111A"/>
+      <stop offset="1" stop-color="#05070A"/>
+    </linearGradient>
+  </defs>
+</svg>

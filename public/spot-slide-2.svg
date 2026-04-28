@@ -1,0 +1,21 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" rx="48" fill="#090B10"/>
+  <rect width="800" height="1000" rx="48" fill="url(#paint0_linear)"/>
+  <circle cx="622" cy="228" r="190" fill="#F0D06C" fill-opacity="0.22"/>
+  <circle cx="190" cy="818" r="190" fill="#5DC9FF" fill-opacity="0.14"/>
+  <circle cx="214" cy="260" r="116" fill="white" fill-opacity="0.08"/>
+  <rect x="66" y="76" width="172" height="48" rx="24" fill="white" fill-opacity="0.08"/>
+  <text x="96" y="108" fill="white" fill-opacity="0.78" font-family="Montserrat, Arial, sans-serif" font-size="20" letter-spacing="6">SPOT 02</text>
+  <text x="66" y="718" fill="white" font-family="Syne, Arial, sans-serif" font-size="76" font-weight="700">Detail</text>
+  <text x="66" y="790" fill="white" font-family="Syne, Arial, sans-serif" font-size="76" font-weight="700">Preview</text>
+  <text x="66" y="858" fill="white" fill-opacity="0.7" font-family="Montserrat, Arial, sans-serif" font-size="28">
+    Slide kedua untuk menampilkan sudut lain.
+  </text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="90" y1="98" x2="711" y2="908" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4E4115"/>
+      <stop offset="0.55" stop-color="#18130A"/>
+      <stop offset="1" stop-color="#05070A"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" rx="48" fill="#0A0910"/>
+  <rect width="800" height="1000" rx="48" fill="url(#paint0_linear)"/>
+  <circle cx="620" cy="226" r="188" fill="#FFCF70" fill-opacity="0.22"/>
+  <circle cx="182" cy="790" r="178" fill="#FF8E62" fill-opacity="0.16"/>
+  <rect x="66" y="76" width="206" height="48" rx="24" fill="white" fill-opacity="0.08"/>
+  <text x="96" y="108" fill="white" fill-opacity="0.78" font-family="Montserrat, Arial, sans-serif" font-size="20" letter-spacing="6">WAHANA 02</text>
+  <text x="66" y="718" fill="white" font-family="Syne, Arial, sans-serif" font-size="76" font-weight="700">Family</text>
+  <text x="66" y="790" fill="white" font-family="Syne, Arial, sans-serif" font-size="76" font-weight="700">Preview</text>
+  <text x="66" y="858" fill="white" fill-opacity="0.7" font-family="Montserrat, Arial, sans-serif" font-size="28">
+    Slide kedua untuk variasi tampilan wahana.
+  </text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="82" y1="79" x2="718" y2="912" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5A4317"/>
+      <stop offset="0.55" stop-color="#191108"/>
+      <stop offset="1" stop-color="#05070A"/>
+    </linearGradient>
+  </defs>
+</svg>

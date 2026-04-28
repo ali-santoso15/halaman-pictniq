@@ -1,0 +1,20 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" rx="48" fill="#090A10"/>
+  <rect width="800" height="1000" rx="48" fill="url(#paint0_linear)"/>
+  <circle cx="614" cy="768" r="198" fill="#9D7BFF" fill-opacity="0.18"/>
+  <circle cx="196" cy="236" r="170" fill="#7CE1FF" fill-opacity="0.14"/>
+  <rect x="66" y="76" width="206" height="48" rx="24" fill="white" fill-opacity="0.08"/>
+  <text x="96" y="108" fill="white" fill-opacity="0.78" font-family="Montserrat, Arial, sans-serif" font-size="20" letter-spacing="6">WAHANA 03</text>
+  <text x="66" y="718" fill="white" font-family="Syne, Arial, sans-serif" font-size="76" font-weight="700">Night</text>
+  <text x="66" y="790" fill="white" font-family="Syne, Arial, sans-serif" font-size="76" font-weight="700">Preview</text>
+  <text x="66" y="858" fill="white" fill-opacity="0.7" font-family="Montserrat, Arial, sans-serif" font-size="28">
+    Placeholder ketiga untuk presentasi client.
+  </text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="88" y1="81" x2="719" y2="913" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#15374A"/>
+      <stop offset="0.55" stop-color="#160F1F"/>
+      <stop offset="1" stop-color="#05070A"/>
+    </linearGradient>
+  </defs>
+</svg>
